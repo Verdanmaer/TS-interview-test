@@ -21,3 +21,8 @@ Otevřete si stránku https://formats.r2b2.cz/view/vhs04lwnemmy4q4 a pomocí dev
 
 5. Logo v hlavičce by mělo proklikávat na stránku https://tn.nova.cz/. Proč se tak reálně neděje?
    - U *'a'* tagu má být **href** místo **src**.
+
+
+## Praktická část
+
+**Viz index.html**
