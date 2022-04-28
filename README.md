@@ -1,6 +1,6 @@
 # TS-interview-test
 
-Teoretická část
+## Teoretická část
 Otevřete si stránku https://formats.r2b2.cz/view/vhs04lwnemmy4q4 a pomocí devtools zodpovězte následující otázky. Není nutné stahovat a upravovat celý kód.
 
 
